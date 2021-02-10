@@ -10,7 +10,7 @@ What do you do when you go out?
  1. Put on your mask.
  2. Take your hand sanitizer.  
 
-Here is the list of the necesities for the COVID times.
+The following table lists the items you can use during the pandemic and their respective importance.
 
 | Item      | Importance |
 | ----------- | ----------- |
