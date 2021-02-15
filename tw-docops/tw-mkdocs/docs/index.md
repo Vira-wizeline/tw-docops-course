@@ -14,11 +14,6 @@ For example, here is a list:
 2.  Item 2
 3.  Item 3
 
-Here is another list:
-
-* Another item
-* Another item
-
 ## Adding a New Page
 
 Add new pages to your site doing the following:
